@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1652109320 source:c:\users\desktop\documents\empelyeemanger\main.cpp
+	<iostream>
+	<Volunteer.h>
+	<StafffMember.h>
+	<Employee.h>
+	<Salary.h>
+	<Hourly.h>
+	<Commission.h>
+	<Executive.h>
+	<Department.h>
+	<Project.h>
+	<Budget.h>
+	<Staff.h>
+	<windows.h>
+
+1651426352 source:c:\users\desktop\documents\empelyeemanger\src\executive.cpp
+	"Executive.h"
+
+1651425632 c:\users\desktop\documents\empelyeemanger\include\executive.h
+	<string>
+	<Salary.h>
+
+1651426207 source:c:\users\desktop\documents\empelyeemanger\src\salary.cpp
+	"Salary.h"
+
+1651424978 c:\users\desktop\documents\empelyeemanger\include\salary.h
+	<Employee.h>
+
+1651924403 source:c:\users\desktop\documents\empelyeemanger\src\department.cpp
+	"Department.h"
+
+1651924403 c:\users\desktop\documents\empelyeemanger\include\department.h
+	<string>
+	<iostream>
+
+1652109024 source:c:\users\desktop\documents\empelyeemanger\src\stafffmember.cpp
+	"StafffMember.h"
+
+1652107751 c:\users\desktop\documents\empelyeemanger\include\stafffmember.h
+	<Department.h>
+
+1651424978 c:\users\desktop\documents\empelyeemanger\include\volunteer.h
+	<StafffMember.h>
+
+1651426352 source:c:\users\desktop\documents\empelyeemanger\src\volunteer.cpp
+	"Volunteer.h"
+
+1651426207 source:c:\users\desktop\documents\empelyeemanger\src\employee.cpp
+	"Employee.h"
+
+1651426207 c:\users\desktop\documents\empelyeemanger\include\employee.h
+	<StafffMember.h>
+
+1651426207 source:c:\users\desktop\documents\empelyeemanger\src\hourly.cpp
+	"Hourly.h"
+
+1651424978 c:\users\desktop\documents\empelyeemanger\include\hourly.h
+	<Employee.h>
+
+1651426207 source:c:\users\desktop\documents\empelyeemanger\src\commission.cpp
+	"Commission.h"
+
+1651424978 c:\users\desktop\documents\empelyeemanger\include\commission.h
+	<Employee.h>
+
+1652109087 source:c:\users\desktop\documents\empelyeemanger\src\project.cpp
+	"Project.h"
+
+1652108084 c:\users\desktop\documents\empelyeemanger\include\project.h
+	<iostream>
+	<Budget.h>
+	<Volunteer.h>
+	<StafffMember.h>
+	<Employee.h>
+	<Salary.h>
+	<Hourly.h>
+	<Commission.h>
+	<Executive.h>
+	<string>
+
+1651356422 source:c:\users\desktop\documents\empelyeemanger\src\budget.cpp
+	"Budget.h"
+
+1651356422 c:\users\desktop\documents\empelyeemanger\include\budget.h
+
+1652102608 source:c:\users\desktop\documents\empelyeemanger\src\staff.cpp
+	"Staff.h"
+
+1652098283 c:\users\desktop\documents\empelyeemanger\include\staff.h
+	<StafffMember.h>
+	<Volunteer.h>
+	<Salary.h>
+	<Commission.h>
+	<Executive.h>
+	<Hourly.h>
+
